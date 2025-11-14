@@ -8,3 +8,5 @@ A small bash script that calculates simple interest given:
 Usage:
 1. Clone the repo.
 2. Run: ./simple-interest.sh
+© 2023 XYZ, Inc.
+
